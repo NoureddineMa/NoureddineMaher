@@ -1,0 +1,41 @@
+5 -  git remote-v :
+   origin  https://github.com/NoureddineMa/test_git.git (fetch)
+origin  https://github.com/NoureddineMa/test_git.git (push)
+
+   --------C'est Pour voir si le dossier est connécté Avec Github-----------
+
+
+
+7 -  résultat de git status :
+                 On branch main
+                 Your branch is ahead of 'origin/main' by 1 commit.
+                 (use "git push" to publish your local commits)
+                 nothing to commit, working tree clean
+
+
+---------------C'est Pour voir les élements qu'on a ajouté a Staging Area------------
+
+12- Décrire le workflow :
+
+Nous avons  créé un fichier appelé README.md  puis nous avons ajouté le fichier à la STAGING AREA en utilisant git
+puis nous sommes engagés dans le repo en tant que nouvelle version du projet
+
+13- git log  :  cette commande affiche les journaux de validations 
+
+
+19- La différence entre git add . et git add README.md la premiére selectionne tous les fichiers qui ont changés
+et Git add README.md sélectionne juste le fichier README.md
+  				(.) par exemple On ajoutée 10 fichiers 
+
+-Fichiertext.txt
+-image.png
+-.....
+
+
+
+si on fait git add . cette commande va selectionner tous ces fichiers mais si on fait git add README.md il va selectionez Juste ce fichier 
+
+
+
+
+
