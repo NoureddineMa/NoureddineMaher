@@ -6,7 +6,7 @@
 aprés ces deux jours On a fait le git et github 
 
 
-2- Qu'est ce qu'on a appris à travers ce qu'on fait ?
+2- Qu'est ce qu'on a appris à travers ce qu'on fait?
  - C'est Quoi Version controle systéme et ça histoire  et comment travaillez sur git et github 
 et les commandes par exemple (git add , got commit -m , git clone , git status , git push )
 
