@@ -1,0 +1,15 @@
+08/09 Novembre 2021
+
+
+
+1- Qu'est ce qu'on a fait ?
+aprés ces deux jours On a fait le git et github 
+
+
+2- Qu'est ce qu'on a appris à travers ce qu'on fait ?
+ - C'est Quoi Version controle systéme et ça histoire  et comment travaillez sur git et github 
+et les commandes par exemple (git add , got commit -m , git clone , git status , git push )
+
+3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
+ça va nous aider dans les Projets qu'on va faire Pour Avoir toujours une version enregistré
+ou pour les collaborations avec des Autres Développeurs
