@@ -29,4 +29,17 @@ et Git add README.md sélectionne juste le fichier README.md
 
 -Fichiertext.txt
 -image.png
+<<<<<<< HEAD
 -......
+=======
+-.....
+
+
+
+si on fait git add . cette commande va selectionner tous ces fichiers mais si on fait git add README.md il va selectionez Juste ce fichier 
+
+
+
+
+
+>>>>>>> e3840e41e1dfd6dcae6658259bf788c2df4e244e

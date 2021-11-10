@@ -1,15 +1,50 @@
-08/09 Novembre 2021
+                                                                               08/09 Novembre 2021
 
 
 
 1- Qu'est ce qu'on a fait ?
-aprés ces deux jours On a fait le git et github 
 
+Ces deux jours On a fait le git et github 
 
-2- Qu'est ce qu'on a appris à travers ce qu'on fait?
+=======
+
+2- Qu'est ce qu'on a appris à travers ce qu'on fait ?
+
  - C'est Quoi Version controle systéme et ça histoire  et comment travaillez sur git et github 
-et les commandes par exemple (git add , got commit -m , git clone , git status , git push )
+et les commandes par exemple (git add , got commit , git clone , git status , git push )
+
+=======
 
 3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
-ça va nous aider dans les Projets qu'on va faire Pour Avoir toujours une version enregistré
-ou pour les collaborations avec des Autres Développeurs
+
+-ça va nous aider dans les Projets qu'on va faire Pour Avoir toujours une version enregistré
+ou pour les collaborations avec des Autres Développeurs.
+
+
+
+                                                  ========================================================
+
+                                                                              10/11 Novembre 2021
+
+1- Qu'est ce qu'on a fait ?
+
+cette journée on a vu c'est quoi le langage C et l'histoire de ce langage  et ou on peut travailler avec ce langage et l'editeur 
+et qu'est ce que on dit par les  variables 
+ - On a fait Un quizz sur Git et github et un l'algorithme et le langage C 
+
+=======
+
+2- Qu'est ce qu'on a appris à travers ce qu'on fait?
+ - que le langage  est un langage de programmation structure creer en 1972 par Dennis Richie  
+et Comment travailler avec ce langage et comment faire pour travailler avec  des variables et les fonctions (printf , et scanf).
+
+=======
+
+3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
+Va nous aider  de communiquer avec un systéme d'exploitation et de créer des programmes qui va nous aidez
+
+
+
+
+
+
