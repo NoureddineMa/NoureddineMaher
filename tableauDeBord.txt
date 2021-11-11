@@ -24,7 +24,7 @@ ou pour les collaborations avec des Autres Développeurs.
 
                                                   ========================================================
 
-                                                                              10/11 Novembre 2021
+                                                                              10 Novembre 2021
 
 1- Qu'est ce qu'on a fait ?
 
@@ -42,6 +42,41 @@ et Comment travailler avec ce langage et comment faire pour travailler avec  des
 
 3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
 Va nous aider  de communiquer avec un systéme d'exploitation et de créer des programmes qui va nous aidez
+
+
+                                                                               10 Novembre 2021
+
+
+1- Qu'est ce qu'on a fait ?
+
+ cette journée on a fait des challenges sur le langage C surtout sur  les fonctions 
+et un live coding avec la team "Brogrammers" .
+
+
+=======
+
+2- Qu'est ce qu'on a appris à travers ce qu'on fait?
+
+c'est comment  bien travailler avec les fonctions (printf et scanf)
+
+=======
+
+3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
+bien maitriser le langage C et faire des programmes qui va nous servir 
+
+
+                                                  ========================================================
+
+
+
+
+
+
+
+
+
+
+
 
 
 
