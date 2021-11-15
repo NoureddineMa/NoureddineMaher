@@ -85,11 +85,35 @@ comment fonctionne les condition if else.
 =======
 
 3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
- n ous permettre de printer au utilisateurs des resultat par rapport  a les condition qu'on a saisi.
+ nous permettre de printer au utilisateurs des resultat par rapport  a les condition qu'on a saisi.
 
 
                                                   ========================================================
 
+                                                                              15 Novembre 2021
+
+
+1- Qu'est ce qu'on a fait ?
+
+cette journée on a  fait la suite des challenges de conditions en laguage C 
+et un webinaire presenter par le fondateur de Simplon qui a présente la formation de Coding et qui repondu a les questions des Eleves 
+
+=======
+
+2- Qu'est ce qu'on a appris à travers ce qu'on fait?
+
+comment fonctionne les condition if else et la conditions switch case .
+
+
+=======
+
+3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
+ nous permettre de printer au utilisateurs des resultat par rapport  a les condition qu'on a saisi.
+
+
+
+
+                                                  ========================================================
 
 
 
