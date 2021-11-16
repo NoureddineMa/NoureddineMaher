@@ -115,6 +115,29 @@ comment fonctionne les condition if else et la conditions switch case .
 
                                                   ========================================================
 
+15 Novembre 2021
+
+
+1- Qu'est ce qu'on a fait ?
+
+cette journée on a  fait un live coding a propos des challengs des variables et conditions
+et j'ai fait avec ma squad nommée "Brogrammers" une présentation a propos de l'algorithme ( la définition et l'histoire de l'algorithme et
+flowchart et c'est quoi le pseudocode et comment écrire une syntaxe de l'algorithme et la complexité d'algo.
+
+
+=======
+
+2- Qu'est ce qu'on a appris à travers ce qu'on fait?
+
+que l'algortihme est trés important pour résoudre des problémes et pour écrire une syntaxe que va nous facilite le travail 
+comme on dit (on suit des etapes pour avoir le resultat dans le minimum des instructions ou des étapes.
+
+
+=======
+
+3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
+ comme j'ai déja dit l'algorithme va nous facilite le travail . 
+
 
 
 
