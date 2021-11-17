@@ -115,7 +115,7 @@ comment fonctionne les condition if else et la conditions switch case .
 
                                                   ========================================================
 
-15 Novembre 2021
+16 Novembre 2021
 
 
 1- Qu'est ce qu'on a fait ?
@@ -137,6 +137,30 @@ comme on dit (on suit des etapes pour avoir le resultat dans le minimum des inst
 
 3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
  comme j'ai déja dit l'algorithme va nous facilite le travail . 
+
+                                                  ========================================================
+
+17 Novembre 2021
+
+
+1- Qu'est ce qu'on a fait ?
+
+cette journée on a débuter une documentation sur les boucles et les fonctions ainsi que des challenges 
+pour mieux savoir si on est bien documenté et compris.
+
+
+=======
+
+2- Qu'est ce qu'on a appris à travers ce qu'on fait?
+
+cette journée on a appris que l'utilisation d'algorithme peux nous facilite beaucoup de travail parcque avec l'algo on va tracer tous les taches qu'il faux faire .
+
+
+=======
+
+3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
+ ça va nous aider pour mieux comprendre les étapes q'on va passer pour résoudre un probléme logiquement et avec une structure Basic.
+
 
 
 
