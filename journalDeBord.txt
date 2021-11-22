@@ -182,6 +182,27 @@ comment bien utiliser les boucles  et quand utiliser for () , while () et do whi
 3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
  ça va nous aider pour faire des conditions dans notre code et projet pour voir si le code va continuer ou 
 il va stoper jusqu'a la condition est fait .
+                                                   ========================================================
+
+22 Novembre 2021
+
+
+1- Qu'est ce qu'on a fait ?
+
+cette journée on a fait un quizz sur les (variables-les conditions -les boucles -les fonctions)
+et une présentation faite par un collègue sur les structures et les fichiers et un peux d'avancement dans le projet.
+
+=======
+
+2- Qu'est ce qu'on a appris à travers ce qu'on fait?
+Comment travailler avec les structs et les files . (meme si c'est pas compris Bien)
+
+
+=======
+
+3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
+ on va les utiliser dans nos projets pour faciliter le stock des informations des utilisateurs 
+
 
 
 
