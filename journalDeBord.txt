@@ -203,6 +203,25 @@ Comment travailler avec les structs et les files . (meme si c'est pas compris Bi
 3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
  on va les utiliser dans nos projets pour faciliter le stock des informations des utilisateurs 
 
+========================================================
+
+23 et le 24 Novembre 2021
+
+
+1- Qu'est ce qu'on a fait ?
+
+On a Travailler dans le Projet Sas
+=======
+
+2- Qu'est ce qu'on a appris à travers ce qu'on fait?
+
+
+
+=======
+
+3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
+ 
+
 
 
 
