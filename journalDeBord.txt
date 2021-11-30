@@ -220,6 +220,24 @@ On a Travailler dans le Projet Sas
 =======
 
 3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
+========================================================
+30 Novembre 2021
+
+
+1- Qu'est ce qu'on a fait ?
+-On a fait un ensemble des régles intérieur de classe et tous est d'accord avec eux .
+-Ensuite nous avons appris comment notre flux de travail d'apprentissage va se dérouler avec le programme de sprint.
+- et on débute une documentation sur Quoi la différence entre Web et Internet et comment le web fonctionne.
+=======
+
+2- Qu'est ce qu'on a appris à travers ce qu'on fait?
+
+on a appris c'est quoi la différence entre web et internet.
+=======
+3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
+
+comment le web fonctionne ça va nous aider pour savoir trés bien comment accorder pour créer des sites webs 
+ 
  
 
 
