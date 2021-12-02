@@ -237,6 +237,30 @@ on a appris c'est quoi la différence entre web et internet.
 3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
 
 comment le web fonctionne ça va nous aider pour savoir trés bien comment accorder pour créer des sites webs 
+
+========================================================
+1/2 Décembre 2021
+
+
+1- Qu'est ce qu'on a fait ?
+on a fait une roadmap de ce qu'on va faire toute l'année et les compétences qu'on va Acquérir dans toute l'année et les Levels Q'on va passer pour etre des Full stack Developpers .
+On a fait une présentation de comment le web fonctionne et c'est quoi la différence entre Web et Internet .
+
+et le 2 décembre on a fait une documentation sur c'est Quoi HTML5 et  ces balises et de comment lier le Style.css avec Le CODE HTML.
+et un Petit quizz par squad  sur le (Git et github) (Web et internet) (HTML) et on est classé comme deuxiéme Squad.
+=======
+
+2- Qu'est ce qu'on a appris à travers ce qu'on fait?
+
+-Comment utiliser quelques balises HTML5 et comment lier le style Css au code HTML
+- Et on a comprend comment le web  Fonctionne pour une fois on va developper un site web on compris bien comment ça marche .
+
+
+=======
+3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
+Créer des sites webs Responsive et Dynamique avec un style css
+
+
  
  
 
