@@ -259,6 +259,23 @@ et un Petit quizz par squad  sur le (Git et github) (Web et internet) (HTML) et 
 =======
 3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
 Créer des sites webs Responsive et Dynamique avec un style css
+========================================================
+3 Décembre 2021
+
+1- Qu'est ce qu'on a fait ?
+Aujourd'hui on a compléter le premier brief du HTML/css
+Et on a vu une présentation de HTML/CSS et les balises et les elements.
+
+=======
+2- Qu'est ce qu'on a appris à travers ce qu'on fait?
+
+C'est Quoi les voids elements dans le head et comment utiliser les balises dans le code Css
+comment intégrir un style au code HTML avec le dossier style.css
+=======
+
+3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
+va nous aider beaucoup pour créer un site web 
+
 
 
  
