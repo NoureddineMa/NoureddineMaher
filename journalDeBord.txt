@@ -275,6 +275,42 @@ comment intégrir un style au code HTML avec le dossier style.css
 
 3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
 va nous aider beaucoup pour créer un site web 
+========================================================
+6 Décembre 2021
+
+1- Qu'est ce qu'on a fait ?
+Ajourd'hui on a continuer le travail pour le brief 2 et on a fait un Quizz Par Squad 
+et des nouveaux notions dans le css Par exemple Margin padding et box model
+
+=======
+2- Qu'est ce qu'on a appris à travers ce qu'on fait?
+
+-lier le fichier Css avec HTML et comment écrire la syntaxe Du css 
+
+=======
+
+3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
+va nous aider beaucoup pour créer un site web et faire un bon style pour ce site 
+========================================================
+7 Décembre 2021
+
+1- Qu'est ce qu'on a fait ?
+-Aujourd'hui on a fait une scéance CME avec la formatrice Asmaa  c'était passé bien 
+on est débuté par la présentation de chacun entre nous aprés on a fait une activité de presentation de différents sujets.
+-Aprés on a voir 2 présentation une présenter par Abdesslam Boukri et Aymane darji sur MOBILE FIRST et une autre présentation SUR SEO présenter par IBRAHIM ESSEDYQ
+-et on est documentée sur MOBILE FIRST et comment ça marche et POURQUOI le Mobile First 
+
+
+=======
+2- Qu'est ce qu'on a appris à travers ce qu'on fait?
+
+Comment le SEO controlle l'emplacement de notre site web dans le moteur de recherche pour se déplace au premier page par des (keywords/speed/Backline/compression des images/Réduire le nombre de requette HTTP)
+et l'importane de MOBILE FIRST et c'est Quoi le MOBILE FIRST
+=======
+
+3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
+va nous aider si on veut créer des sites webs donc il faut mieux de commmencer par MOBILE FIRST
+et Aprés On va faire tous les étapes de SEO pour que notre site soit toujours dans les premiéres Pages. 
 
 
 
