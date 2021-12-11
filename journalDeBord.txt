@@ -295,7 +295,7 @@ va nous aider beaucoup pour créer un site web et faire un bon style pour ce sit
 7 Décembre 2021
 
 1- Qu'est ce qu'on a fait ?
--Aujourd'hui on a fait une scéance CME avec la formatrice Asmaa  c'était passé bien 
+-Aujourd'hui on a fait une scéance CME avec la formatrice Asmaa c'était passé bien 
 on est débuté par la présentation de chacun entre nous aprés on a fait une activité de presentation de différents sujets.
 -Aprés on a voir 2 présentation une présenter par Abdesslam Boukri et Aymane darji sur MOBILE FIRST et une autre présentation SUR SEO présenter par IBRAHIM ESSEDYQ
 -et on est documentée sur MOBILE FIRST et comment ça marche et POURQUOI le Mobile First 
@@ -311,6 +311,56 @@ et l'importane de MOBILE FIRST et c'est Quoi le MOBILE FIRST
 3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
 va nous aider si on veut créer des sites webs donc il faut mieux de commmencer par MOBILE FIRST
 et Aprés On va faire tous les étapes de SEO pour que notre site soit toujours dans les premiéres Pages. 
+========================================================
+8 Décembre 2021
+
+1- Qu'est ce qu'on a fait ?
+-Aujourd'hui On a terminé le brief 3 au meme temps on a débuter une documentation sur les maquettes 
+=======
+
+2- Qu'est ce qu'on a appris à travers ce qu'on fait?
+-Que chaque avant code nous avons besoin d'une maquette Mobile et Desktop Pour bien presenter le site 
+=======
+
+3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
+
+========================================================
+9 Décembre 2021
+
+1- Qu'est ce qu'on a fait ?
+Aujourd'hui apres la documentation sur les maquettes j'ai réussir a compléter le design Mobile et DESKTOP 
+et maintenant je vais le coder .
+
+
+=======
+2- Qu'est ce qu'on a appris à travers ce qu'on fait?
+
+
+=======
+
+3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
+========================================================
+
+
+
+10 Décembre 2021
+
+1- Qu'est ce qu'on a fait ?
+on a fait une documentation sur les sélecteurs en css et les pseudo elements et pseudo classe 
+et on a vu une présentation de Squad 4 programmers sur les Position sur Css
+
+
+
+
+=======
+2- Qu'est ce qu'on a appris à travers ce qu'on fait?
+comment fonctionne les positions : '(sticky,fixed,relative,constante,absolute)
+
+
+=======
+
+3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
+ça va nous aider dans tout les projets de création de site web pour bien controller nos élements
 
 
 
