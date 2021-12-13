@@ -362,6 +362,30 @@ comment fonctionne les positions : '(sticky,fixed,relative,constante,absolute)
 3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
 ça va nous aider dans tout les projets de création de site web pour bien controller nos élements
 
+========================================================
+
+10 Décembre 2021
+
+1- Qu'est ce qu'on a fait ?
+Ce jour la on a débuté un brief Sur low fedelity et high fedelity  d'un site Mobile et Desktop et le maquettage du meme site 
+et le prototyping du site pour savoir comment ce site va nous apparaitre aprés le code .
+et le groupe 4 programmers ont continuer la présentation des positions . 
+
+
+
+=======
+2- Qu'est ce qu'on a appris à travers ce qu'on fait?
+Comment Intégrer des photos et des icones au Adobe xd pour avoir une maquette d'un site web 
+et c'est quoi la différence entre le high fedelity et low fedelity et comment faire pour le prototyping.
+
+
+=======
+
+3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
+
+ça va nous aider dans tout les projets de création de site web pour bien savoir comment le site va apparaite avant le code .
+
+
 
 
  
