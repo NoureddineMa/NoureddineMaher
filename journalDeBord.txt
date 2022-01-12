@@ -364,6 +364,27 @@ comment fonctionne les positions : '(sticky,fixed,relative,constante,absolute)
 
 ========================================================
 
+13 Décembre 2021
+
+1- Qu'est ce qu'on a fait ?
+Ce jour la on a débuté un brief Sur low fedelity et high fedelity  d'un site Mobile et Desktop et le maquettage du meme site 
+et le prototyping du site pour savoir comment ce site va nous apparaitre aprés le code .
+et le groupe 4 programmers ont continuer la présentation des positions . 
+
+
+
+=======
+2- Qu'est ce qu'on a appris à travers ce qu'on fait?
+Comment Intégrer des photos et des icones au Adobe xd pour avoir une maquette d'un site web 
+et c'est quoi la différence entre le high fedelity et low fedelity et comment faire pour le prototyping.
+
+
+=======
+
+3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
+
+ça va nous aider dans tout les projets de création de site web pour bien savoir comment le site va apparaite avant le code .
+-------------------------------------------------------------------------------------------------------------------------------
 10 Décembre 2021
 
 1- Qu'est ce qu'on a fait ?
@@ -384,6 +405,53 @@ et c'est quoi la différence entre le high fedelity et low fedelity et comment f
 3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
 
 ça va nous aider dans tout les projets de création de site web pour bien savoir comment le site va apparaite avant le code .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  -----------------------------------------   SPRINT 2 : -----------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+12 Janvier 2022
+
+1- Qu'est ce qu'on a fait ?
+le Matin on fait un feedback sur le travail en groupe et Quelles Sont les inconvénients et les avantages de Squad
+Aprés on a fait des nouveau Squad .
+et dans l'aprés Midi on a vu une roadmap sur le Sprint numéro 2 
+et les Compétences Qu'on va achever 
+
+
+=======
+2- Qu'est ce qu'on a appris à travers ce qu'on fait?
+
+=======
+
+3- Comment on va utiliser ce qu'on a fait dans un contexte réel ?
+
+
 
 
 
